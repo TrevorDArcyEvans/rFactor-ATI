@@ -96,6 +96,8 @@ Trade show excitement!
 
 </details>
 
+## Source Code
+Sorry but this is all owned by Accurate Technologies Inc
 
 ## Further work
 <details><p/>
