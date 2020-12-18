@@ -70,29 +70,29 @@ Trade show excitement!
 <details>
   <summary>rFactor</summary><p/>
 
-  ![](rFactor-01.jpg)
-  ![](rFactor-02.jpg)
-  ![](rFactor-03.png)
-  ![](rFactor-04.jpg)
+  ![rFactor](rFactor-01.jpg "rFactor")
+  ![rFactor](rFactor-02.jpg "rFactor")
+  ![rFactor](rFactor-03.png "rFactor")
+  ![rFactor](rFactor-04.jpg "rFactor")
 
 </details>
 
 <details>
   <summary>VISION</summary><p/>
 
-  ![](VISION-Demo-Screen-Cal-Changes.png)
-  ![](VISION-MultiGraph.png)
-  ![](VISION-Screen-OBDII-Data.png)
+  ![VISION](VISION-Demo-Screen-Cal-Changes.png "VISION")
+  ![VISION](VISION-MultiGraph.png "VISION")
+  ![VISION](VISION-Screen-OBDII-Data.png "VISION")
 
 </details>
 
 <details>
   <summary>CANLab</summary><p/>
 
-  ![](CANLabDisplays_576x408.png)
-  ![](CANLabScope_576x374.png)
-  ![](CANLabSend_576x378.png)
-  ![](CANLabScript_576x472.png)
+  ![CANLab](CANLabDisplays_576x408.png "CANLab")
+  ![CANLab](CANLabScope_576x374.pn "CANLab"g)
+  ![CANLab](CANLabSend_576x378.png "CANLab")
+  ![CANLab](CANLabScript_576x472.png "CANLab")
 
 </details>
 
