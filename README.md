@@ -51,6 +51,13 @@ Trade show excitement!
 
 </details>
 
+<details>
+  <summary>Instrument Cluster</summary><p/>
+
+  ![instrument cluster](Ford-Focus-instrument-cluster.jpg "Instrument Cluster")<p/>
+
+</details>
+
 ## Architecture
 <details>
   <summary>Overview</summary><p/>
@@ -58,6 +65,37 @@ Trade show excitement!
   ![architecture](ATI-car-architecture.png "Architecture")
 
 </details>
+
+## Screenshots
+<details>
+  <summary>rFactor</summary><p/>
+
+  ![](rFactor-01.jpg)
+  ![](rFactor-02.jpg)
+  ![](rFactor-03.png)
+  ![](rFactor-04.jpg)
+
+</details>
+
+<details>
+  <summary>VISION</summary><p/>
+
+  ![](VISION-Demo-Screen-Cal-Changes.png)
+  ![](VISION-MultiGraph.png)
+  ![](VISION-Screen-OBDII-Data.png)
+
+</details>
+
+<details>
+  <summary>CANLab</summary><p/>
+
+  ![](CANLabDisplays_576x408.png)
+  ![](CANLabScope_576x374.png)
+  ![](CANLabSend_576x378.png)
+  ![](CANLabScript_576x472.png)
+
+</details>
+
 
 ## Further work
 <details><p/>
