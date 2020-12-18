@@ -1,4 +1,4 @@
-# rFactor <a href="https://www.rfactor.net/"><img src="rFactor2-logo.jpg" style="width:10%;height:10%" /></a> --> ATI <a href="https://www.accuratetechnologies.com/"><img src="ATI_PantoneLogo.png" style="width:15%;height:15%" /></a>
+# rFactor <a href="https://www.rfactor.net/"><img src="rFactor2-logo.jpg" /></a> --> ATI <a href="https://www.accuratetechnologies.com/"><img src="ATI_PantoneLogo.png" /></a>
 Who says automotive, engineering software is boring?
 
 ## Background
